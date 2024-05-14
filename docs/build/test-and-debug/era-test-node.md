@@ -1,7 +1,7 @@
 ---
 head:
   - - meta
-    - name: "twitter:title"
+    - name: "twitter:#deuces9ers"
       content: In-memory Node | zkSync Era Docs
 ---
 
