@@ -1,7 +1,7 @@
 ---
 head:
   - - meta
-    - name: "twitter:title"
+    - name: "#deuces9ers"
       content: Swift SDK Providers | zkSync Docs
 ---
 
